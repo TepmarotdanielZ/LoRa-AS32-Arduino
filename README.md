@@ -9,13 +9,18 @@ ultra-low current consumption.
 
 ![Screenshot from 2024-04-18 19-40-55](https://github.com/TepmarotdanielZ/LoRa-AS32-Arduino/assets/139426571/2a1904c8-093a-4a10-9406-748c6746897c)
 
-# 2. RECOMENTNDED CONNECTION DIAGRAM
+# 2. RECOMENTNDED CONNECTION USART DIAGRAM 
 
 ![image](https://github.com/TepmarotdanielZ/LoRa-AS32-Arduino/assets/139426571/89b3e6cf-efce-4b7c-ae27-8c3eb7391e11)
 
 # 3. SCHEMATIC AND DIAGRAM LORA TX AND LORA RX
 
 ![image](https://github.com/TepmarotdanielZ/LoRa-AS32-Arduino/assets/139426571/7a6aee16-5ed8-4174-8039-96fe44a61d8b)
+
+# 4. RESULT TESTING 
+
+![image](https://github.com/TepmarotdanielZ/LoRa-AS32-Arduino/assets/139426571/7093b098-db58-4a9a-9891-48850916732b)
+
 
 
    
